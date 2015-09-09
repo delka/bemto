@@ -1,5 +1,9 @@
 # Bemto changelog
 
+## v1.0.0 (in development)
+
+- Changed the settings to be a single object and not a bunch of variables.
+
 ## v0.2.2 (2015-05-05)
 
 - Fixed support for more html5 elements: `<figure>`, `<figcaption>`, `<main>`, `<picture>` and `<source/>`.
